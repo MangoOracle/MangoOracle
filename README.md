@@ -438,7 +438,7 @@ In the [dependencies] section, add the oracle contract's repository address, pat
 ```toml
 
 [dependencies]
-Oracle = { git = "", subdir = "oracle", rev = "main" }
+Oracle = { git = "https://github.com/MangoOracle/MangoOracle.git", subdir = "oracle", rev = "main" }
 ```
 
 3. Contract Integration Development
