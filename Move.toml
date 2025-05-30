@@ -1,0 +1,9 @@
+[package]
+name = "oracle"
+published-at = "0xcd9f9616d5b30d3561ea4681117cbbb400c97d9ec87a5f5c0d6356f983962a6e"
+
+[dependencies]
+Mgo = { git = "https://github.com/MangoNet-Labs/mango.git", subdir = "crates/mgo-framework/packages/mgo-framework", rev = "testnet" }
+
+[addresses]
+oracle = "0xcd9f9616d5b30d3561ea4681117cbbb400c97d9ec87a5f5c0d6356f983962a6e"
