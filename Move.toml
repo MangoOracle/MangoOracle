@@ -1,9 +1,9 @@
 [package]
 name = "oracle"
-published-at = "0xcd9f9616d5b30d3561ea4681117cbbb400c97d9ec87a5f5c0d6356f983962a6e"
+published-at = "0x2598f00582ecdb9fdc178b72cb47f53d7241249e0e402b8409afdab54f3b2c90"
 
 [dependencies]
-Mgo = { git = "https://github.com/MangoNet-Labs/mango.git", subdir = "crates/mgo-framework/packages/mgo-framework", rev = "testnet" }
+Mgo = { git = "https://github.com/MangoNet-Labs/mango.git", subdir = "crates/mgo-framework/packages/mgo-framework", rev = "mainnet_1.0.3" }
 
 [addresses]
-oracle = "0xcd9f9616d5b30d3561ea4681117cbbb400c97d9ec87a5f5c0d6356f983962a6e"
+oracle = "0x2598f00582ecdb9fdc178b72cb47f53d7241249e0e402b8409afdab54f3b2c90"
