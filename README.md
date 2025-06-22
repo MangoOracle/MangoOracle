@@ -75,7 +75,7 @@ oracle = "0x2598f00582ecdb9fdc178b72cb47f53d7241249e0e402b8409afdab54f3b2c90"
 
 
 <p class="mx-auto w-full decoration-primary/6 max-w-3xl page-api-block:ml-0">ℹ️ <i class="font-italic">Tip:</i> Details of <code class="py-[1px] px-1.5 min-w-[1.625rem] justify-center items-center ring-1 ring-inset ring-tint bg-tint rounded text-[.875em] leading-[calc(max(1.20em,1.25rem))]">OracleFeedGroup</code> can be found in the contract configuration parameters.
-The mapping between <code class="py-[1px] px-1.5 min-w-[1.625rem] justify-center items-center ring-1 ring-inset ring-tint bg-tint rounded text-[.875em] leading-[calc(max(1.20em,1.25rem))]">feed</code> and <code class="py-[1px] px-1.5 min-w-[1.625rem] justify-center items-center ring-1 ring-inset ring-tint bg-tint rounded text-[.875em] leading-[calc(max(1.20em,1.25rem))]">symbol</code> is available in the token object list.</p>
+The mapping between <code class="py-[1px] px-1.5 min-w-[1.625rem] justify-center items-center ring-1 ring-inset ring-tint bg-tint rounded text-[.875em] leading-[calc(max(1.20em,1.25rem))]">coin</code> and <code class="py-[1px] px-1.5 min-w-[1.625rem] justify-center items-center ring-1 ring-inset ring-tint bg-tint rounded text-[.875em] leading-[calc(max(1.20em,1.25rem))]">fullName</code> is available in the token object list.</p>
 
 <br>
 
